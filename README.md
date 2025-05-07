@@ -1,2 +1,2 @@
 # Sistem_Operasi
-Tugas dan materi kuliah Sistem Operasi - TI Semester II
+Tugas kuliah Sistem Operasi - TI Semester II
