@@ -1,2 +1,3 @@
-# Sistem_Operasi
-Tugas kuliah Sistem Operasi - TI Semester II
+# 🧮 Teknologi Informasi [Semester I]
+
+Repository ini berisi kumpulan Tugas kuliah Sistem Operasi - TI Semester II
